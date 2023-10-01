@@ -3,7 +3,7 @@
 function App() {
   return (
     <div>
-   <h1> harsh singh </h1>
+   <h1 className="text-red-400"> harsh singh </h1>
      <ChatIcon className="red"/>
 
   
