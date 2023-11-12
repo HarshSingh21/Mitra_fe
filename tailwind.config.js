@@ -4,7 +4,6 @@ module.exports = {
   darkMode: "class",
   // card // add link // symbol// card layout// add unit to chat
   //class
-  
   theme: {
     extend: {
       colors: {
