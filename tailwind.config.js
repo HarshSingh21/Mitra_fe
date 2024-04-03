@@ -5,8 +5,7 @@ module.exports = {
   // card // add link // symbol// card layout// add unit to chat
   //class
   theme: {
-    extend: {
-      
+    extend: {  
       colors: {
         dark_bg_1: "#111B21",
         dark_bg_2: "#202C33",
